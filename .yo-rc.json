@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "superVillians",
+    "style": "scss",
+    "postcss": false,
+    "generatedWithVersion": 3
+  }
+}

@@ -1,0 +1,19 @@
+/* Base Application Styles */
+body {
+  color: #fff;
+  background: #fff;
+}
+
+.konvajs-content {
+    margin: 0 auto;
+}
+
+.superVils {
+    .player {
+        height: 100px;
+        width: 100px;
+        .player--yellow {
+            background-color: yellow;
+        }
+    }
+}
